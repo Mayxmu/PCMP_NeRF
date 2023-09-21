@@ -1,4 +1,4 @@
-# MPP_NeRF
+# PCMP_NeRF
 This code release accompanies the following paper:
 
 
